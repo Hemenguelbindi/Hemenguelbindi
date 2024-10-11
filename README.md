@@ -1,16 +1,13 @@
-## Hi there 👋
+### I am a programmer and a security testing engineer
 
-<!--
-**Hemenguelbindi/Hemenguelbindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Langueges and Tools
+![Python](https://skillicons.dev/icons?i=python)
+![Rust](https://skillicons.dev/icons?i=rust)
+![Docket](https://skillicons.dev/icons?i=docker)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Go](https://skillicons.dev/icons?i=go)
+![C#](https://skillicons.dev/icons?i=cs)
+![C++](https://skillicons.dev/icons?i=cpp)
+![PowerShell](https://skillicons.dev/icons?i=powershell)
+![Vscode](https://skillicons.dev/icons?i=vscode)
