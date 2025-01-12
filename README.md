@@ -11,3 +11,4 @@
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
 ![Vscode](https://skillicons.dev/icons?i=vscode)
+![Ansible](https://skillicons.dev/icon?i=ansible)
