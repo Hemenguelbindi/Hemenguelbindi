@@ -13,4 +13,4 @@
 ![Vscode](https://skillicons.dev/icons?i=vscode)
 ![Ansible](https://skillicons.dev/icons?i=ansible)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemenguelbindi)](https://github.com/anuraghazra/github-readme-stats)
+
