@@ -2,8 +2,8 @@
 
 
 ### Langueges and Tools
-![Python](https://skillicons.dev/icons?i=python)
 ![Rust](https://skillicons.dev/icons?i=rust)
+![Python](https://skillicons.dev/icons?i=python)
 ![Docket](https://skillicons.dev/icons?i=docker)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Go](https://skillicons.dev/icons?i=go)
