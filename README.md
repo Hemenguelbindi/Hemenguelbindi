@@ -12,6 +12,5 @@
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
 ![Vscode](https://skillicons.dev/icons?i=vscode)
 ![Ansible](https://skillicons.dev/icons?i=ansible)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemenguelbindi&layout=compact)
+
