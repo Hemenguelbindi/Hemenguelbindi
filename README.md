@@ -23,7 +23,7 @@ I'm a **DevOps Engineer** and **Security Testing Specialist** — I bridge the g
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=rust,python,go,bash,powershell,cs,cpp&theme=dark" alt="Languages"><br>
+  <img src="https://skillicons.dev/icons?i=rust,python,bash,powershell&theme=dark" alt="Languages"><br>
   <!-- DevOps -->
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,jenkins,githubactions,nginx,grafana,prometheus&theme=dark" alt="DevOps"><br>
   <!-- Security -->
