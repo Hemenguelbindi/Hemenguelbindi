@@ -38,24 +38,7 @@ I'm a **DevOps Engineer** and **Security Testing Specialist** — I bridge the g
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hemenguelbindi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" alt="Stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemenguelbindi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" alt="Languages" height="160">
 </p>
-
----
-
-### 🎯 Current Focus
-
-```yaml
-status: "Building local AI infrastructure"
-tasks:
-  - ✅ Unsloth Studio for LLM fine-tuning
-  - ✅ ComfyUI for image/audio generation
-  - 🔄 Agent dataset creation for Hermes
-  - 🔄 GPU-accelerated llama.cpp inference
-  - ⏳ Multi-agent orchestration pipeline
-```
-
----
 
 ### 🤝 Connect
 
