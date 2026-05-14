@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF88&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+Victor+Karpov;DevOps+Engineer;Security+Tester;%F0%9F%9B%A1%EF%B8%8F+Red+Team+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF88&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+Victor+Karpov;DevOps+Engineer;Security+Tester" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 I'm a **DevOps Engineer** and **Security Testing Specialist** — I bridge the gap between infrastructure, automation, and offensive security. From CI/CD pipelines to penetration testing, I make systems resilient and secure.
 
 - 🏗️ **DevOps:** Docker, Ansible, CI/CD, Linux, Bash scripting
-- 🛡️ **Security:** Red Team ops, vulnerability assessment, exploit development  
+- 🛡️ **Security:** vulnerability assessment, penetration testing, exploit analysis  
   <!--- 🤖 **AI/ML:** Local LLMs (Unsloth, ComfyUI), model fine-tuning, agent automation -->
 
 ---
